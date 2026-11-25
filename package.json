@@ -1,0 +1,8 @@
+{
+  "name": "python-killarOS",
+  "version": "0.1.0",
+  "arch": "x86_16",
+  "description": "Native 16-bit port for killarOS",
+  "entrypoint": "main.bin",
+  "dependencies": []
+}
